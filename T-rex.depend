@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1531230260 source:t:\code blocks\t-rex\funtion_game.cpp
+	"Funtion_game.h"
+
+1531203905 t:\code blocks\t-rex\funtion_game.h
+	<iostream>
+	<conio.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<Windows.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<ctime>
+	<bits/stdc++.h>
+	<cmath>
+
+1531230534 source:t:\code blocks\t-rex\main.cpp
+	"Funtion_game.h"
+
+1531230260 source:e:\hoc tap\c nam 1\code blocks\t-rex\funtion_game.cpp
+	"Funtion_game.h"
+
+1585766470 e:\hoc tap\c nam 1\code blocks\t-rex\funtion_game.h
+	<iostream>
+	<conio.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<Windows.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<ctime>
+	<bits/stdc++.h>
+	<cmath>
+
+1531230578 source:e:\hoc tap\c nam 1\code blocks\t-rex\main.cpp
+	"Funtion_game.h"
+
